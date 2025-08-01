@@ -14,24 +14,26 @@ Each week’s work is neatly organized into its own folder for easy navigation a
 ├── Week 3 Assignment/
 ├──etc.
 └── README.md                # You are here!
+```
+
 
 Each folder contains:
 
--**📄 Assignment files (Python scripts, etc.)
--**📑 A README.md explaining that specific assignment
+-** 📄 Assignment files (Python scripts, etc.)
+-** 📑 A README.md explaining that specific assignment
 
 
 ## ✅ Assignments Overview
 
 🐍 Week 1 – Python Basics & Calculator
 
--**Built an interactive calculator in Python
--**Supports addition, subtraction, multiplication & division
--**Includes error handling and a loop until user quits
+-** Built an interactive calculator in Python
+-** Supports addition, subtraction, multiplication & division
+-** Includes error handling and a loop until user quits
 
 🔜 Week 3 – Coming soon!
 
--**More assignments will be added here as we progress 🚀
+-** More assignments will be added here as we progress 🚀
 
 ## 🚀 How to Use This Repo
 
@@ -39,15 +41,19 @@ Each folder contains:
 
 ```
 git clone https://github.com/masmunge95/PLP-Academy-Python-Assignments.git
+```
+
 2️⃣ Navigate into any week’s folder:
 
 ```
 cd Week 1 Assignment
+```
 
 3️⃣ Run or open the assignment files in a terminal:
 
 ```
 python calculator.py
+```
 
 
 ## ✍️ Author
