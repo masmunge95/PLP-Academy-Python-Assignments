@@ -15,12 +15,15 @@ This is a fun and beginner-friendly Python calculator that can add, subtract, mu
 
 ## 🚀 How to Run the Calculator
 
-1️⃣ Make sure you have Python 3 installed.
-2️⃣ Save the code into a file called calculator.py.
-3️⃣ Open your terminal or command prompt in the same folder.
-4️⃣ Run the program:
+1. Make sure you have Python 3 installed.
+2. Save the code into a file called 
 ```
-    python calculator.py
+   calculator.py.
+```
+3. Open your terminal or command prompt in the same folder.
+4. Run the program:
+```
+   python calculator.py
 ```
 
 ## 🎮 How to Use
@@ -31,7 +34,7 @@ This is a fun and beginner-friendly Python calculator that can add, subtract, mu
      + ➡️ Addition
      - ➡️ Subtraction
      * ➡️ Multiplication
-     / ➡️ Division
+     - ➡️ Division
 
 Get your result instantly!
 
