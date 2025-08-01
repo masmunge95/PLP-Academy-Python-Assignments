@@ -23,7 +23,7 @@ This is a fun and beginner-friendly Python calculator that can add, subtract, mu
     python calculator.py
 ```
 
-# 🎮 How to Use
+## 🎮 How to Use
 
 1. Enter the first number (or type q to quit).
 2. Enter the second number.
@@ -57,7 +57,7 @@ Python 3.x (any modern version will work)
 ```
 
 
-# ✍️ Author
+## ✍️ Author
 👤 Samuel Waema
 📧 waemasamuel95@gmail.com
 
